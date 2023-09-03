@@ -1,3 +1,13 @@
+---
+layout: post
+title: Machine Learning Yearning
+subtitle: Bruh
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
+---
+
 ## MỤC LỤC
 * [Giới thiệu](#p00)
 	* [1. Tại sao cần chiến lược Học Máy](#ch01)
